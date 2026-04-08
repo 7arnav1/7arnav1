@@ -1,13 +1,17 @@
 ### Arnav
 
-Backend-focused engineer. I care about clear APIs, reliable auth, and product direction—not only implementation.
+I spend most of my time on **AI**: applied LLMs, agents, retrieval and tooling, and shipping features that stay reliable in production—not just demos.
 
-**Featured project: [SPONTA](https://github.com/7arnav1/SPONTA)** — iOS app for spontaneous challenges and local events (React Native / Expo, Node.js / Express, Firebase, JWT). The README includes a demo recording, screenshots, architecture overview, and a concise breakdown of what I owned on the backend and as product owner.
+I also work **full stack** when a project needs it: APIs, auth, data layers, and working with mobile or web clients end to end.
 
-**On that project I focused on:** Express API design and implementation end to end, Firebase Admin integration, JWT-based access to protected routes, AI-assisted challenge flows (Google Generative AI), collaboration with frontend teammates on contracts, and shaping the product vision and priorities with the team.
-
-**Stack I use often:** Node.js, Express, Firebase (Auth, Firestore, Storage), REST APIs, JavaScript, React Native ecosystem (as a consumer of APIs and integrations).
+**Resume:** [Arnav-Resume.pdf](./Arnav-Resume.pdf) (PDF in this repo)
 
 ---
 
-If you are hiring or want to compare notes on backend architecture or mobile backends, open an issue on SPONTA or reach out via the contact methods on my GitHub profile.
+**Featured project: [SPONTA](https://github.com/7arnav1/SPONTA)** — iOS app for spontaneous challenges and local events (React Native / Expo, Node.js / Express, Firebase, JWT). README includes a demo recording, screenshots, architecture notes, and what I owned on the backend, AI-assisted flows, and product direction.
+
+**Tools and stacks I touch often:** Python and Node for services and automation, cloud APIs and vector/RAG-style pipelines, plus Express, Firebase, REST, and JWT when building product backends.
+
+---
+
+If you are hiring or want to chat about AI systems or full-stack delivery, use the contact options on my GitHub profile or reach out through a link on my resume.
